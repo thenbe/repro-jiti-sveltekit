@@ -1,0 +1,17 @@
+{
+	"name": "repro-jiti-sveltekit",
+	"type": "module",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "jiti src/jiti.ts"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"jiti": "^1.21.0",
+		"typescript": "^5.3.3"
+	}
+}
